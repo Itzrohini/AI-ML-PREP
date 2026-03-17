@@ -1,0 +1,22 @@
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+venv/
+env/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Data outputs (plots, temporary files)
+outputs/
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Optional: dataset folder if too large
+# data/
